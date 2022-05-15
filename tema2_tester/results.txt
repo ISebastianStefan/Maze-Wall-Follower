@@ -1,0 +1,10 @@
+ -1.00: test base failed
+ -1.00: test complex1 failed
+ -1.00: test complex2 failed
+ -1.00: test complex3 failed
+ -1.00: test complex4 failed
+ -1.00: test complex5 failed
+  0.00: test simple1 ok
+ -1.00: test simple2 failed
+ -1.00: test simple3 failed
+ -1.00: test simple4 failed

@@ -1,0 +1,150 @@
+********************************************************************************
+**** Running test base...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+timeout after 2457600 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 24576025 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test complex1...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 11035 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 151335 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test complex2...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 6873 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 109715 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test complex3...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 10913 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 150115 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test complex4...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 14828 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 189265 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test complex5...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 7320 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 114185 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test simple1...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 691 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 47895 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test simple2...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 636 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 47345 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test simple3...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 17822 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 219205 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
+********************************************************************************
+**** Running test simple4...
+********************************************************************************
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+--------------------------------------------------------------------------------
+done in 3170 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 72685 ns : File "C:/Users/Sebas/OneDrive/Desktop/Anul 3/SEMESTRUL 1/(AC) Arhitectura calculatoarelor/Tema2/tema2_tester/build/bin/tester/tester.v" Line 234
